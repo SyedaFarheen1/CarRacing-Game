@@ -77,6 +77,10 @@ Download the following files from this repository:
 - `DOSBoxPortable.zip`
 - `Notepad++Portable.zip`
 - `MarioKart.asm`
+- `nasm.exe`
+- `AFD.EXE`
+- `AFD.EXE`
+- `ndisasm.exe`
 
 ---
 
@@ -107,6 +111,10 @@ MarioKartGame
 ├── DOSBoxPortable
 ├── Notepad++Portable
 └── MarioKart.asm
+└── nasm.exe
+└── AFD.EXE
+└── AFD.EXE
+└── ndisasm.exe
 ```
 
 ## 4️⃣ Open the Assembly File
